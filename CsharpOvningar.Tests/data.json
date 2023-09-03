@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "b7f9e384-4d55-41d5-a6e6-951a54a6e3e1",
+    "Name": "John",
+    "Age": 35,
+    "Family": [
+      {
+        "Id": "c8a1325a-8a07-4d92-89b1-3f0a3dd3d0f5",
+        "Name": "Alice",
+        "Age": 32,
+        "Family": [
+          {
+            "Id": "f12bbd28-3b7b-4e67-bc7f-89120d6a3e9d",
+            "Name": "Emma",
+            "Age": 5,
+            "Family": [
+              {
+                "Id": "a605de48-1234-4c65-8889-43cd09e6096c",
+                "Name": "Sophia",
+                "Age": 2,
+                "Family": [
+                  {
+                    "Id": "3b3fc784-4e4c-4f09-a7a2-5c2f654cc4e7",
+                    "Name": "Mia",
+                    "Age": 87,
+                    "Family": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Id": "1e059f82-4e12-48d1-b257-8c77e3811f90",
+            "Name": "Liam",
+            "Age": 8,
+            "Family": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "7be93dd7-2b5b-46a3-9c94-1e3bde134541",
+    "Name": "Sarah",
+    "Age": 30,
+    "Family": [
+      {
+        "Id": "fe48cb1d-9e7c-4d3b-95db-23e8ab1c06c3",
+        "Name": "Olivia",
+        "Age": 4,
+        "Family": [
+          {
+            "Id": "4a63efbb-79e5-4a04-8c5f-07ee0f8f35c8",
+            "Name": "Aiden",
+            "Age": 6,
+            "Family": []
+          }
+        ]
+      }
+    ]
+  }
+]

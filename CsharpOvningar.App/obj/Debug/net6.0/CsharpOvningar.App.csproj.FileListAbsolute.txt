@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\bin\Debug\net6.0\CsharpOvningar.App.exe
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\bin\Debug\net6.0\CsharpOvningar.App.deps.json
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\bin\Debug\net6.0\CsharpOvningar.App.runtimeconfig.json
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\bin\Debug\net6.0\CsharpOvningar.App.dll
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\bin\Debug\net6.0\ref\CsharpOvningar.App.dll
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\bin\Debug\net6.0\CsharpOvningar.App.pdb
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\obj\Debug\net6.0\CsharpOvningar.App.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\obj\Debug\net6.0\CsharpOvningar.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\obj\Debug\net6.0\CsharpOvningar.App.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\obj\Debug\net6.0\CsharpOvningar.App.AssemblyInfo.cs
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\obj\Debug\net6.0\CsharpOvningar.App.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\obj\Debug\net6.0\CsharpOvningar.App.dll
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\obj\Debug\net6.0\ref\CsharpOvningar.App.dll
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\obj\Debug\net6.0\CsharpOvningar.App.pdb
+C:\Users\chris\source\repos\CsharpOvningar\CsharpOvningar.App\obj\Debug\net6.0\CsharpOvningar.App.genruntimeconfig.cache

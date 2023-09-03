@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpOvningar.App", "CsharpOvningar.App\CsharpOvningar.App.csproj", "{52895353-BA51-4A91-9F04-9B1BA4AA7AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpOvningar.Tests", "CsharpOvningar.Tests\CsharpOvningar.Tests.csproj", "{E9B3DA46-7868-47DE-9222-D6A08A374136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52895353-BA51-4A91-9F04-9B1BA4AA7AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52895353-BA51-4A91-9F04-9B1BA4AA7AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52895353-BA51-4A91-9F04-9B1BA4AA7AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52895353-BA51-4A91-9F04-9B1BA4AA7AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B3DA46-7868-47DE-9222-D6A08A374136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B3DA46-7868-47DE-9222-D6A08A374136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B3DA46-7868-47DE-9222-D6A08A374136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B3DA46-7868-47DE-9222-D6A08A374136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {283A15A3-3973-4248-9F9D-A7F66DC92E87}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c8f2359-5a3f-403e-8bdf-7dca8887427b": {
+      "ProjectGuid": "8c8f2359-5a3f-403e-8bdf-7dca8887427b",
+      "DisplayName": "CsharpOvningar",
+      "ColorIndex": 0
+    },
+    "52895353-ba51-4a91-9f04-9b1ba4aa7ab4": {
+      "ProjectGuid": "52895353-ba51-4a91-9f04-9b1ba4aa7ab4",
+      "DisplayName": "CsharpOvningar.App",
+      "ColorIndex": 1
+    },
+    "e9b3da46-7868-47de-9222-d6a08a374136": {
+      "ProjectGuid": "e9b3da46-7868-47de-9222-d6a08a374136",
+      "DisplayName": "CsharpOvningar.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
